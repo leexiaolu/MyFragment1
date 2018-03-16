@@ -9,6 +9,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+/**
+ * android fragment
+ *
+ * 使用 RelativeLayout 多布局实现带有消息数目提醒
+ */
 public class Main3Activity extends AppCompatActivity implements View.OnClickListener {
 
     //Activity UI Object

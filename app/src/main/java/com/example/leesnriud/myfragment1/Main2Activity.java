@@ -18,7 +18,6 @@ public class Main2Activity extends AppCompatActivity implements RadioGroup.OnChe
     private RadioGroup rg_tab_bar;
     private RadioButton rb_channel;
 
-    //Fragment Object
     private MyFragment fg1,fg2,fg3,fg4;
     private FragmentManager fManager;
 
